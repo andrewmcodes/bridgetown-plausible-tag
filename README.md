@@ -6,7 +6,7 @@
       <img alt="License: MIT" src="https://img.shields.io/github/license/andrewmcodes/bridgetown-plausible-tag" />
     </a>
     <a href="https://badge.fury.io/rb/bridgetown-plausible-tag"><img src="https://badge.fury.io/rb/bridgetown-plausible-tag.svg" alt="Gem Version" height="18"></a>
-    <!-- <a href="https://codeclimate.com/github/andrewmcodes/bridgetown-plausible-tag/maintainability"><img src="https://api.codeclimate.com/v1/badges/f9756d6568f43c7a407b/maintainability" /></a> -->
+    <a href="https://codeclimate.com/github/andrewmcodes/bridgetown-plausible-tag/maintainability"><img src="https://api.codeclimate.com/v1/badges/70c0b37f13e92d32b262/maintainability" /></a>
     <a href='https://coveralls.io/github/andrewmcodes/bridgetown-plausible-tag?branch=main'><img src='https://coveralls.io/repos/github/andrewmcodes/bridgetown-plausible-tag/badge.svg?branch=main' alt='Coverage Status' /></a>
     <img alt="Tests" src="https://github.com/andrewmcodes/bridgetown-plausible-tag/workflows/Tests/badge.svg" />
     <img alt="Linters" src="https://github.com/andrewmcodes/bridgetown-plausible-tag/workflows/Linters/badge.svg" />
@@ -73,7 +73,7 @@ Use the tag in the head of your document:
 
 ## Demo
 
-[bridgetown-plausible-tag-starter](https://github.com/andrewmcodes/bridgetown-plausible-tag-starter)
+[bridgetown-plausible-starter](https://github.com/andrewmcodes/bridgetown-plausible-starter)
 
 This starter can be used to reproduce issues as well as provide an example of the plugin's usage.
 
