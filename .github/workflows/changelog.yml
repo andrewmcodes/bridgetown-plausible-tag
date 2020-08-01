@@ -16,7 +16,7 @@ jobs:
         uses: TriPSs/conventional-changelog-action@v3
         with:
           github-token: ${{ secrets.github_token }}
-          git-message: "chore(release): :bookmark: {version}"
+          git-message: "chore(release): :bookmark: {version} [nodoc]"
           git-user-name: "Andrew Mason"
           git-user-email: "andrewmcodes@protonmail.com"
           preset: "angular"
