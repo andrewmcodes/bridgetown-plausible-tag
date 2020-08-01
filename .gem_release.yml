@@ -1,3 +1,3 @@
 bump:
-  file: lib/bridgetown-plausible-tag/version.rb
+  file: version.toml
   message: "chore(release): :bookmark: Bump %{name} to %{version} [nodoc]"
