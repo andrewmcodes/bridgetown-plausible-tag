@@ -10,6 +10,10 @@ describe(BridgetownPlausibleTag) do
     Nokogiri::HTML(read(file))
   end
 
+  it "has a version number" do
+    expect(BridgetownPlausibleTag::VERSION).not_to be nil
+  end
+
   [
     Bridgetown.configuration({
       "plausible" => {"domain" => "example.com"},

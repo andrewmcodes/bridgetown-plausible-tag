@@ -1,5 +1,5 @@
 # frozen_string_literal: true
 
 module BridgetownPlausibleTag
-  VERSION = "0.0.1"
+  VERSION = File.open("version.toml", File::RDONLY).read.strip
 end
