@@ -1,6 +1,7 @@
 <div align="center">
   <img alt="Banner" width="100%" src="media/banner.png" />
   <h1>bridgetown-plausible-tag</h1>
+  <p>Easily integrate <a href="https://plausible.io" target="_blank">Plausible</a> into your <a href="https://www.bridgetownrb.com" target="_blank">Bridgetown site.</a></p>
   <p>
     <a href="LICENSE" target="_blank">
       <img alt="License: MIT" src="https://img.shields.io/github/license/andrewmcodes/bridgetown-plausible-tag" />
@@ -14,12 +15,38 @@
   </p>
 </div>
 
+- [Introduction](#introduction)
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [Demo](#demo)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Introduction
+
+[Plausible](https://plausible.io) is a lightweight and open-source website analytics tool. It doesn’t use cookies and is fully compliant with GDPR, CCPA and PECR. This plugin is meant to remove all friction from adding your [Plausible Analytics tracking script code](https://docs.plausible.io/plausible-script) to your Bridgetown site.
+
+The alternative to using this plugin is just pasting your Plausible tracking script code directly into the head of your document:
+
+```html
+<head>
+  <!-- ... -->
+  <script async defer data-domain="yourdomain.com" src="https://plausible.io/js/plausible.js"></script>
+  <!-- ... -->
+</head>
+```
+
+But if you use this plugin, all you need to do is define your [Plausible domain](https://docs.plausible.io/add-website) in your Bridgetown config file and paste this into your document head:
+
+```html
+<head>
+  <!-- ... -->
+  {% plausible %}
+  <!-- ... -->
+</head>
+```
+
 
 ## Installation
 
