@@ -23,7 +23,13 @@
 
 ## Installation
 
-Run this command to add this plugin to your site's Gemfile:
+If you're running Bridgetown v0.15 or later, you can install this plugin via an automation to guide you through the configuration:
+
+```bash
+bundle exec bridgetown apply https://github.com/andrewmcodes/bridgetown-plausible-tag
+```
+
+Otherwise, you can run this command to add this plugin to your site's Gemfile:
 
 ```shell
 bundle add bridgetown-plausible-tag -g bridgetown_plugins
@@ -36,6 +42,8 @@ group :bridgetown_plugins do
   gem "bridgetown-plausible-tag", "~> 0.0.1"
 end
 ```
+
+Run `bundle install` and then modify your `bridgetown.config.yml` configuration to point to your Plausible domain.
 
 ## Configuration
 
