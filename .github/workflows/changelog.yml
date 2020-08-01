@@ -22,3 +22,4 @@ jobs:
           preset: "angular"
           tag-prefix: "v"
           version-file: "./version.toml"
+          release-count: 0
