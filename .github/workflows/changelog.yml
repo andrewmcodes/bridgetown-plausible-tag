@@ -21,3 +21,4 @@ jobs:
           git-user-email: "andrewmcodes@protonmail.com"
           preset: "angular"
           tag-prefix: "v"
+          version-file: ".github/version.toml"
