@@ -1,7 +1,7 @@
 <div align="center">
   <img alt="Banner" width="100%" src="media/banner.png" />
   <h1>bridgetown-plausible-tag</h1>
-  <p>Easily integrate <a href="https://plausible.io" target="_blank">Plausible</a> into your <a href="https://www.bridgetownrb.com" target="_blank">Bridgetown site.</a></p>
+  <p>Easily integrate <a href="https://plausible.io" target="_blank">Plausible Analytics</a> into your <a href="https://www.bridgetownrb.com" target="_blank">Bridgetown site.</a></p>
   <p>
     <a href="LICENSE" target="_blank">
       <img alt="License: MIT" src="https://img.shields.io/github/license/andrewmcodes/bridgetown-plausible-tag" />
@@ -46,7 +46,6 @@ But if you use this plugin, all you need to do is define your [Plausible domain]
   <!-- ... -->
 </head>
 ```
-
 
 ## Installation
 
@@ -103,6 +102,8 @@ Use the tag in the head of your document:
 [bridgetown-plausible-starter](https://github.com/andrewmcodes/bridgetown-plausible-starter)
 
 This starter can be used to reproduce issues as well as provide an example of the plugin's usage.
+
+You can view the live version at: [andrewmcodes.github.io/bridgetown-plausible-starter](https://andrewmcodes.github.io/bridgetown-plausible-starter/).
 
 ## Contributing
 
