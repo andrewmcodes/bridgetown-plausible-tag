@@ -1,19 +1,4 @@
-<div align="center">
-  <img alt="Banner" width="100%" src="media/banner.png" />
-  <h1>bridgetown-plausible-tag</h1>
-  <p>Easily integrate <a href="https://plausible.io" target="_blank">Plausible Analytics</a> into your <a href="https://www.bridgetownrb.com" target="_blank">Bridgetown site.</a></p>
-  <p>
-    <a href="LICENSE" target="_blank">
-      <img alt="License: MIT" src="https://img.shields.io/github/license/andrewmcodes/bridgetown-plausible-tag" />
-    </a>
-    <a href="https://badge.fury.io/rb/bridgetown-plausible-tag"><img src="https://badge.fury.io/rb/bridgetown-plausible-tag.svg" alt="Gem Version" height="18"></a>
-    <a href="https://codeclimate.com/github/andrewmcodes/bridgetown-plausible-tag/maintainability"><img src="https://api.codeclimate.com/v1/badges/70c0b37f13e92d32b262/maintainability" /></a>
-    <a href='https://coveralls.io/github/andrewmcodes/bridgetown-plausible-tag?branch=main'><img src='https://coveralls.io/repos/github/andrewmcodes/bridgetown-plausible-tag/badge.svg?branch=main' alt='Coverage Status' /></a>
-    <img alt="Tests" src="https://github.com/andrewmcodes/bridgetown-plausible-tag/workflows/Tests/badge.svg" />
-    <img alt="Linters" src="https://github.com/andrewmcodes/bridgetown-plausible-tag/workflows/Linters/badge.svg" />
-    <img alt="Changelog" src="https://github.com/andrewmcodes/bridgetown-plausible-tag/workflows/Changelog/badge.svg" />
-  </p>
-</div>
+# PROJECT MOVED TO [btrb/bridgetown-plausible](https://github.com/bt-rb/bridgetown-plausible)
 
 - [Introduction](#introduction)
 - [Installation](#installation)
